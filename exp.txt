@@ -5,3 +5,5 @@
 2 урок: https://gbcdn.mrgcdn.ru/uploads/record/284028/attachment/fec959816daacc1505b0ce23c5534acb.mp4
 
 3 урок: https://gbcdn.mrgcdn.ru/uploads/record/283568/attachment/8c621e189dc8987d321358750888aeb9.mp4
+
+Интерактивный тренажер по Гиту: https://learngitbranching.js.org/?locale=ru_RU
