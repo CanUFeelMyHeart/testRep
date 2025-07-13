@@ -25,6 +25,5 @@
             ('Бытовая техника'),
             ('Мобильные устройства');
 
-   SELECT * FROM products;
-   SELECT * FROM categories;
+
 
